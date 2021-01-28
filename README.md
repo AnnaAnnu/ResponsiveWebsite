@@ -1,2 +1,0 @@
-# ResponsiveWebsite
-Using HTML & CSS
